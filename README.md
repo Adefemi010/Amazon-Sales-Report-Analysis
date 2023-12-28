@@ -1,9 +1,6 @@
 # Amazon-Sales-Report-Analysis
 
-
-Project Title: Unboxing Insights: An Analytical Review of Amazon Sales in India
-
-Introduction:
+### Project Overview
 
 Embark on a data-driven odyssey as I unravel the complexities of Amazon's marketplace in India. This project is a deep-dive analysis into the sales reports, where I aim to decode the patterns, preferences, and performance that shape one of the largest e-commerce landscapes.
 
